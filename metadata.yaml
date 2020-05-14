@@ -1,0 +1,44 @@
+_repo: Leo-Tolstoy_62045
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Garnett, Edward
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '34360'
+    url: http://www.gutenberg.org/2009/agents/34360
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Garnett
+  - agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+  - agent_name: Perris, G. H. (George Herbert)
+    alias: Perris, George Herbert
+    birthdate: 1866
+    deathdate: 1920
+    gutenberg_agent_id: '48233'
+    url: http://www.gutenberg.org/2009/agents/48233
+    wikipedia: https://en.wikipedia.org/wiki/George_Herbert_Perris
+description: ''
+gutenberg_issued: '2020-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910'
+- !lcc 'PG'
+- !lcsh 'Authors, Russian -- 19th century -- Biography'
+- GITenberg
+tableOfContents: Tolstoy / G.K. Chesterton -- Leo Tolstoy as writer / G.H. Perris
+  -- Tolstoy's place in European literature / E. Garnett -- Biographical note.
+title: Leo Tolstoy
+url: http://www.gutenberg.org/ebooks/62045
